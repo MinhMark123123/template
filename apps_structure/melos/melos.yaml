@@ -1,8 +1,6 @@
 name: ###PROJECT_NAME###
 repository: ###PROJECT_REPOSITORY###
 
-sdkPath: ###PROJECT_SDK_PATH###
-
 packages:
   - packages/**
   - app/**
